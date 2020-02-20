@@ -5,4 +5,4 @@
 #    password: 12345678
 cloud:
   config:
-    test: HAHA Git and SpringCloud!
+    test: HAHA Git and SpringCloud! 2020-02-20
