@@ -5,4 +5,4 @@
 #    password: 12345678
 cloud:
   config:
-    test: HAHA Git and SpringCloud! ~12
+    test: HAHA Git and SpringCloud! ~13
